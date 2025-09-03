@@ -6,7 +6,7 @@
   "scripts": {
     "start": "live-server ."
   },
-  "author": "",
+  "author": "Your Name",
   "license": "MIT",
   "dependencies": {
     "live-server": "^1.2.1"
