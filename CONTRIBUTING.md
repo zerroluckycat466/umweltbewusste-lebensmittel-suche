@@ -7,7 +7,7 @@ Vielen Dank für dein Interesse, an diesem Projekt teilzunehmen! Hier sind einig
 3. **Dokumentation verbessern**: Falls du Anmerkungen zur Dokumentation hast oder zusätzliche Informationen hinzufügen möchtest, freuen wir uns über deine Vorschläge.
 
 ## Anforderungen
-- Halte den Code sauber und dokumentiert.
+- Halte den Code sauber und gut dokumentiert.
 - Befolge die bewährten Praktiken der Programmierung.
 - Entwickle in einer respektvollen und unterstützenden Weise.
 
