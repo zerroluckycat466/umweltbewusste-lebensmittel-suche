@@ -1,4 +1,5 @@
-document.querySelector('button').addEventListener('click', function() {
+document.querySelector('button').addEventListener('click', function(event) {
+    event.preventDefault();
     const query = document.querySelector('input[type="text"]').value.trim();
     const resultsContainer = document.getElementById('resultsContainer');
     // Placeholder for search results functionality
